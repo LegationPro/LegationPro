@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on <strong>partifly.com</strong> and maintaining <strong>Zigzag</strong>.<br>
+I'm currently working on <strong>zagforge.com</strong> and maintaining <strong>Zigzag</strong>.<br>
 I'm open to collaborate on any projects and explore new opportunities!<br>
 I'm currently learning about <strong>AI Agents</strong>.<br>
 Ask me about <strong>backend</strong>, <strong>microservices</strong>, and <strong>cloud-native applications</strong>.<br>
